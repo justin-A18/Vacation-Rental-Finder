@@ -2,6 +2,10 @@
 
 Vacation Rental Finder es una aplicación web diseñada para ayudarte a encontrar la propiedad de alquiler vacacional perfecta para tu próximo viaje. Con una interfaz intuitiva y potentes filtros de búsqueda, encontrarás fácilmente la propiedad que se adapte a tus necesidades y preferencias.
 
+## Demo:
+
+Puedes probar una demostración de la aplicación [aquí](https://vacation-rental-finder.netlify.app/).
+
 ## Funcionalidades principales:
 
 1. **Búsqueda por Ubicación:** Explora propiedades de alquiler vacacional en diferentes ubicaciones. Filtra por ciudad o región para encontrar alojamientos cerca de tus destinos deseados.
@@ -27,10 +31,7 @@ Vacation Rental Finder es una aplicación web diseñada para ayudarte a encontra
 
 ## Tecnologías Utilizadas:
 
-    React
-    JavaScript
-    Context API
+- React
+- JavaScript
+- Context API
 
-## Demo:
-
-Puedes probar una demostración de la aplicación [aquí](https://vacation-rental-finder.netlify.app/).
