@@ -21,7 +21,7 @@ Puedes probar una demostración de la aplicación [aquí](https://vacation-renta
 ## Instalación:
 
 1. Clona este repositorio en tu máquina local.
-   git clone https://github.com/tu_usuario/vacation-rental-finder.git
+   git clone https://github.com/justin-A18/Vacation-Rental-Finder.git
 2. Instala las dependencias utilizando npm o yarn.
    npm install
    yarn install
